@@ -13,7 +13,10 @@
 7：获取最新的交易信息
 8：监控地址的交易 如果需要
 ~~~
+![](https://www.showdoc.com.cn/server/api/attachment/visitfile/sign/67bad2a8ebe7c84dcb762aa3946b397e)
 
+![](https://www.showdoc.com.cn/server/api/attachment/visitfile/sign/6630ba7c1e452827e0794947ee10323f)
+![](https://www.showdoc.com.cn/server/api/attachment/visitfile/sign/7165bdd21fff2ca56282ce6eaa481b69)
 
 # 需要的联系飞机账号  @nohup88  请备注是github看到的
 
