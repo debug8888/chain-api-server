@@ -18,6 +18,9 @@
 ![](https://www.showdoc.com.cn/server/api/attachment/visitfile/sign/6630ba7c1e452827e0794947ee10323f)
 ![](https://www.showdoc.com.cn/server/api/attachment/visitfile/sign/7165bdd21fff2ca56282ce6eaa481b69)
 
+# 测试地址
+http://blockchainapi.dapp.nohup88.com/
+
 # 需要的联系飞机账号  @nohup88  请备注是github看到的
 
 # 官方网站：[官方网站点我]( http://www.debug8888.com "官方网站")
