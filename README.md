@@ -21,8 +21,6 @@
 # 测试地址
 http://blockchainapi.dapp.nohup88.com/
 
-# 需要的联系飞机账号  @tt88pay  请备注是github看到的
-
-# 官方网站：[官方网站点我]( http://www.debug8888.com "官方网站")
+# 需要的联系飞机账号  @ttt88pay  请备注是github看到的
 
 
