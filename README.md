@@ -2,6 +2,11 @@
 ## 区块链接口 波场链 币安链 火币链 以太坊链 TRC20 ETH HECO 火币 ERC20 HT 比特币链 BTC 
 ## 此系统代码是收费，不是开源。不支持白嫖，想白嫖的请绕道
 
+# 代码截图如下：
+
+![code](https://github.com/debug8888/chain-api-server/assets/93066952/42901a65-0ba9-4c23-b1b2-f1a5975bbf69)
+
+
 # 接口包括【此接口不是远程接口 ，到时会部署到自己的服务器 安全性比较高】
 ~~~
 1：生成本地的地址 返回私钥等信息
@@ -21,9 +26,6 @@
 ![5](https://github.com/debug8888/chain-api-server/assets/93066952/5452516d-1ff4-4185-b968-448b11ab4c9b)
 
 
-# 代码截图如下：
-
-![code](https://github.com/debug8888/chain-api-server/assets/93066952/42901a65-0ba9-4c23-b1b2-f1a5975bbf69)
 
 # 需要的联系飞机账号  @ttt88pay  请备注是github看到的
 
